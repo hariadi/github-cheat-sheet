@@ -489,6 +489,13 @@ index 88fcf69..8614873 100644
 (...)
 ```
 
+#### Rendering and diffing images
+GitHub can display several common image formats, including PNG, JPG, GIF, and PSD. In addition, there are several ways to compare differences between versions of those image formats.
+
+[![Diffable PSD](https://cloud.githubusercontent.com/assets/2546/3165594/55f2798a-eb56-11e3-92e7-b79ad791a697.gif)](https://github.com/blog/1845-psd-viewing-diffing)
+
+[*Read more about rendering and diffing images.*](https://help.github.com/articles/rendering-and-diffing-images)
+
 ### Hub
 [Hub](https://github.com/github/hub) is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
 
